@@ -135,10 +135,6 @@ If you use Datareq in your research, please cite:
 - **Gisele P. Ribeiro** - Technology Center, UFC
 - **Diego N. Mariano** - Science Center, UFC
 
-## 📄 License
-
-[Specify dataset license]
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
@@ -148,11 +144,8 @@ Contributions are welcome! Feel free to:
 - Add new requirements
 - Propose new classification tasks
 
-## 📧 Contact
 
-For questions or suggestions, contact us at [insert contact email].
 
----
 
 **Federal University of Ceará (UFC)**  
 Fortaleza - CE - Brazil
